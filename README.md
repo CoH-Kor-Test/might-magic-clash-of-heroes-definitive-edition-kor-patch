@@ -8,9 +8,10 @@ Might & Magic: Clash of Heroes - Definitive Edition용 한국어 패치 패키�
 
 ## 사용법
 
-1. `M&M_Clash_of_Heroes_DE_kor_v0.1.zip`을 원본 게임 폴더에 풉니다. 같은 폴더에 `data.inf`와 `data.bin`이 있어야 합니다.
-2. `패처 실행.bat`을 실행합니다.
-3. 패치 완료 후 원본 파일은 `backup/data.inf`와 `backup/data.bin`에 보관됩니다. 패치된 두 파일은 게임 폴더에 생성됩니다.
+1. 게임 언어를 일본어로 설정합니다.
+2. `M&M_Clash_of_Heroes_DE_kor_v0.1.zip`을 원본 게임 폴더에 풉니다. 같은 폴더에 `data.inf`와 `data.bin`이 있어야 합니다.
+3. `패처 실행.bat`을 실행합니다.
+4. 패치 완료 후 원본 파일은 `backup/data.inf`와 `backup/data.bin`에 보관됩니다. 패치된 두 파일은 게임 폴더에 생성됩니다.
 
 ## 사용 도구
 
